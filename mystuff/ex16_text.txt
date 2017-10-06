@@ -1,0 +1,3 @@
+remember these function
+you can watch the txt file to see it live
+python is cool
